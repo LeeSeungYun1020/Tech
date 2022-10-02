@@ -2,7 +2,7 @@
 
 ## 자료구조
 - [Array란?](자료구조/Array와%20Linked%20List/Array란.md)
-
+- [Dynamic Array](자료구조/Array와%20Linked%20List/Dynamic%20Array.md)
 ## 알고리즘
 
 
