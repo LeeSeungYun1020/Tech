@@ -4,6 +4,7 @@
 - [Array](자료구조/Array와%20Linked%20List/Array란.md)
 - [Dynamic Array](자료구조/Array와%20Linked%20List/Dynamic%20Array.md)
 - [Linked List](자료구조/Array와%20Linked%20List/Linked%20List.md)
+- [Array VS Linked List](자료구조/Array와%20Linked%20List/Array%20VS%20Linked%20List.md)
 ## 알고리즘
 
 
