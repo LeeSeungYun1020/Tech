@@ -11,6 +11,7 @@
 - [Stack](자료구조/Queue%20VS%20Stack/Stack.md)
 - [Stack 2개로 Queue 구현](자료구조/Queue%20VS%20Stack/Stack%202개로%20Queue%20구현.md)
 - [Queue 2개로 Stack 구현](자료구조/Queue%20VS%20Stack/Queue%202개로%20Stack%20구현.md)
+- [Queue VS Priority Queue](자료구조/Queue%20VS%20Stack/Queue%20VS%20Priority%20Queue.md)
 ## 알고리즘
 
 
