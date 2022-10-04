@@ -8,6 +8,7 @@
 - [Array VS Linked List](자료구조/Array%20VS%20Linked%20List/Array%20VS%20Linked%20List.md)
 ### Queue VS Stack
 - [Queue](자료구조/Queue%20VS%20Stack/Queue.md)
+- [Stack](자료구조/Queue%20VS%20Stack/Stack.md)
 
 ## 알고리즘
 
