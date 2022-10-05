@@ -14,6 +14,7 @@
 - [Queue VS Priority Queue](자료구조/02%20Queue%20VS%20Stack/Queue%20VS%20Priority%20Queue.md)
 ### BST & Hash table
 - [BST(이진 탐색 트리)](자료구조/03%20BST%20&%20Hash%20table/BST.md)
+- [Hash table](자료구조/03%20BST%20&%20Hash%20table/Hash%20table.md)
 ## 알고리즘
 
 
