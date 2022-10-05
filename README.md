@@ -12,7 +12,8 @@
 - [Stack 2개로 Queue 구현](자료구조/02%20Queue%20VS%20Stack/Stack%202개로%20Queue%20구현.md)
 - [Queue 2개로 Stack 구현](자료구조/02%20Queue%20VS%20Stack/Queue%202개로%20Stack%20구현.md)
 - [Queue VS Priority Queue](자료구조/02%20Queue%20VS%20Stack/Queue%20VS%20Priority%20Queue.md)
-
+### BST & Hash table
+- [BST(이진 탐색 트리)](자료구조/03%20BST%20&%20Hash%20table/BST.md)
 ## 알고리즘
 
 
