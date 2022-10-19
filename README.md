@@ -20,6 +20,7 @@
 ## 운영체제
 ### Process & Thread
 - [Process](운영체제/01%20Process%20&%20Thread/01Process.md)
+- [Multi process](운영체제/01%20Process%20&%20Thread/02Multi%20process.md)
 
 ## 데이터베이스
 
