@@ -43,6 +43,13 @@
 
 ## 데이터베이스
 
+### DB structure
+
+- [Primary key](데이터베이스/01%20DB%20structure/01%20Primary%20key.md)
+- [N:M 관계](데이터베이스/01%20DB%20structure/02%20NM%20relation.md)
+- [Join](데이터베이스/01%20DB%20structure/03%20Join.md)
+- [RDB와 NoSQL 비교](데이터베이스/01%20DB%20structure/04%20RDB%20vs%20NoSQL.md)
+
 ## 네트워크
 
 
