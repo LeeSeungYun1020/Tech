@@ -50,6 +50,11 @@
 - [Join](데이터베이스/01%20DB%20structure/03%20Join.md)
 - [RDB와 NoSQL 비교](데이터베이스/01%20DB%20structure/04%20RDB%20vs%20NoSQL.md)
 
+### Transaction
+
+- [트랜잭션](데이터베이스/02%20Transaction/01%20transaction.md)
+- [데이터베이스 데드락](데이터베이스/02%20Transaction/02%20Deadlock.md)
+
 ## 네트워크
 
 
