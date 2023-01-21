@@ -55,6 +55,12 @@
 - [트랜잭션](데이터베이스/02%20Transaction/01%20transaction.md)
 - [데이터베이스 데드락](데이터베이스/02%20Transaction/02%20Deadlock.md)
 
+### Index
+
+- [Index](데이터베이스/03%20Index/01%20Index.md)
+- [Index를 설정할 column 선택하기](데이터베이스/03%20Index/02%20Index%20column.md)
+- [Index를 B+tree로 구성하는 이유](데이터베이스/03%20Index/03%20Index%20b+tree.md)
+
 ## 네트워크
 
 
