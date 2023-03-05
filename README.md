@@ -76,3 +76,8 @@
 - [HTTP status code](네트워크/02%20HTTP/03%20HTTP%20status%20code.md)
 - [네트워크 관점에서 사이트 접속 과정 설명](네트워크/02%20HTTP/04%20google.com%20접속.md)
 
+### Authorization
+
+- [쿠키와 세션](네트워크/03%20Authorization/01%20Cookie%20and%20Session.md)
+- [쿠키와 세션을 이용한 로그인](네트워크/03%20Authorization/02%20Login%20using%20cookie%20and%20session.md)
+
